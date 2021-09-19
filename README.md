@@ -1,2 +1,6 @@
-# leet code challenges
-A collection of attempted leet code challenges
+# Coding challenges
+A collection of attempted leet code challenges from
+- leet code
+- hackerrank
+- code wars
+
